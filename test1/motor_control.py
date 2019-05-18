@@ -68,27 +68,3 @@ def rev_right(sec):
 #turn_right(1)
 #rev_left(.60)
 
-print("forward")
-forward(1)
-print("reverse")
-reverse(1)
-
-print("forward")
-forward(1)
-print("reverse")
-reverse(1)
-
-print("forward")
-forward(1)
-print("reverse")
-reverse(1)
-
-print("forward")
-forward(1)
-print("reverse")
-reverse(1)
-
-print("forward")
-forward(1)
-print("reverse")
-reverse(1)
