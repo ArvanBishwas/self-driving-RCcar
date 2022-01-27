@@ -1,0 +1,8 @@
+
+SERVER_HOST = "0.0.0.0"
+PI_HOST = "Your raspberry pi IP"
+COMPUTER_HOST = "Your computer IP"
+VIDEO_STREAMING_PORT = 8000
+
+
+RESOLUTION = (640, 480)
